@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Chisom
 #### Web Developer
-I am a web developer and content creator considerable interest and passion in creating and collaborating on impactful projects.
+I am a web developer with considerable interest and passion in creating and collaborating on impactful projects.
 
-Skills: JS / HTML / CSS
+Skills: REACT/JS / HTML / CSS
 
 
 
