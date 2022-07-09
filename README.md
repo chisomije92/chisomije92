@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React and Node**
 
-- 📫 How to reach me -  [mail](chisomije92@gmail.com)
+- 📫 You can reach me via mail -  chisomije92@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
