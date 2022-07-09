@@ -5,12 +5,12 @@
 
 - 💬 Ask me about **React and Node**
 
-- 📫 You can reach me via mail -  chisomije92@gmail.com
+- 📫 You can reach me via mail at: **chisomije92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devmaniac92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmaniac92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chisom j. ijeomah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chisom j. ijeomah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chisom-j-ijeomah-9281b8174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chisom-j-ijeomah-9281b8174" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,8 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chisomije92&show_icons=true&locale=en&layout=compact" alt="chisomije92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chisomije92&" alt="chisomije92" /></p>
-
-
-
-
-
