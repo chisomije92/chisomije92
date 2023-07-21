@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmaniac92" target="blank"><img src="https://img.shields.io/twitter/follow/devmaniac92?logo=twitter&style=for-the-badge" alt="devmaniac92" /></a> </p>
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **javaScript**
 
 - 📫 You can reach me via mail at: **chisomije92@gmail.com**
 
