@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisom</h1>
-<h3 align="center">A self-taught full-stack developer with an avid passion for creating and making imaginative ideas come to life. I take special delight in ensuring that the successful union of complex logic and elegant interfaces comes to fruition.</h3>
+<h3 align="center">A full-stack developer with an avid passion for creating and making imaginative ideas come to life. I take special delight in ensuring that the successful union of complex logic and elegant interfaces comes to fruition.</h3>
 
 <p align="left"> <a href="https://twitter.com/devmaniac92" target="blank"><img src="https://img.shields.io/twitter/follow/devmaniac92?logo=twitter&style=for-the-badge" alt="devmaniac92" /></a> </p>
 
